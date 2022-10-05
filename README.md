@@ -1,9 +1,13 @@
-# booth-bot
+# Booth
+
+A Slack app for scheduling PTO, sick leave, discussing private issues, and more for distributed teams.
+
+***
 
 ## Some helpful docs 👇
 
-### A slack app for better communication
-[SSH Tunnel](https://www.digitalocean.com/community/tutorials/how-to-route-web-traffic-securely-without-a-vpn-using-a-socks-tunnel)
+### Creating a reverse proxy with ngrok
+[ngrok Commands](https://ngrok.com/docs/ngrok-agent/ngrok#command-ngrok-http)
 
 ### Basics of Bolt (the Slack SDK for Java)
 [Slack SDK for Java](https://slack.dev/java-slack-sdk/guides/bolt-basics)
