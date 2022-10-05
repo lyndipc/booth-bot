@@ -1,6 +1,6 @@
 # Booth
 
-A Slack app for scheduling PTO, sick leave, discussing private issues, and more for distributed teams.
+A Slack app for distributed teams that allows scheduling PTO, sick leave, work events and more.
 
 ***
 
