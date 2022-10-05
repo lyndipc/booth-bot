@@ -9,9 +9,11 @@ import com.slack.api.bolt.App;
 public class BoothApp {
     @Bean
     public App initBooth() {
+
         App app = new App();
+
         app.command("/hello", (req, ctx) -> {
-            return ctx.ack("Heyyy");
+            return ctx.ack(" :wave: pong!");
         });
 
         return app;
